@@ -1,7 +1,7 @@
-Exam Rank 02 - École 42
+# Exam Rank 02 - 42
 Cet exam comprend 4 niveaux d'exercices de piscine. Vous trouverez ci-dessous les types d'exercices pour chaque niveau.
 
-Niveau 0
+# Niveau 0
   - first_word
   - fizzbuzz
   - ft_strcpy
@@ -16,7 +16,7 @@ Niveau 0
   - ulstr
 
 
-Niveau 1
+# Niveau 1
   - alpha_mirror
   - camel_to_snake
   - do_op
@@ -39,7 +39,7 @@ Niveau 1
   - wdmatch 
 
 
-Niveau 2
+# Niveau 2
   - add_prime_sum
   - epur_str
   - expand_str
@@ -56,7 +56,7 @@ Niveau 2
   - str_capitalizer
   - tab_mult 
 
-Niveau 3
+# Niveau 3
   - flood_fill
   - fprime
   - ft_itoa
@@ -98,4 +98,4 @@ Entrer vos mdp intra
 
 :five: After you git push, type `grademe` in the examshell for your project to be evaluated. 
 
-Bon courage !
+# Bon courage !
